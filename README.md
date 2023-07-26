@@ -1,4 +1,4 @@
-<b># An Food Image Gallery Application using two components</b>
+<h2># An Food Image Gallery Application using two components</h2>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
